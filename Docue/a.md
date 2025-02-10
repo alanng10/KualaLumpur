@@ -13,6 +13,8 @@ The word seventh letter "a" refers to any included any.
 
 Cenhana is any included any of any unit of Cenha.
 
+Cenhana has most general and most level worth.
+
 Cenhana has most general and most level worth arch.
 
 Cenhana has most general and most level worth arch value.
