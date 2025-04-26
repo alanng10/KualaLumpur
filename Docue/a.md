@@ -43,3 +43,5 @@ Cenhana has park kind land.
 Cenhana has park kind arch.
 
 Cenhana has park kind arch worth.
+
+Cenhana has major.
