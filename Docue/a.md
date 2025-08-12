@@ -61,3 +61,7 @@ The meaning is land human city.
 Landeran word has 1 meaning.
 
 The meaning is earth human city.
+
+Landeran word has 1 meaning.
+
+The meaning is earth human cross center.
