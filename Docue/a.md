@@ -49,3 +49,7 @@ Cenhana has park mark.
 Cenhana has park cross.
 
 Cenhana has major.
+
+Kuala Lumpur has define name.
+
+The name is "Landeran".
