@@ -52,20 +52,20 @@ Cenhana has major.
 
 Kuala Lumpur has define name.
 
-The name is "Landeran".
+The name is "Landera".
 
-Landeran word has meaning.
+Landera word has meaning.
 
 The meaning is land human city.
 
-Landeran word has 1 meaning.
+Landera word has 1 meaning.
 
 The meaning is earth human city.
 
-Landeran word has 1 meaning.
+Landera word has 1 meaning.
 
 The meaning is earth human cross center.
 
-Landeran word has 1 meaning.
+Landera word has 1 meaning.
 
 The meaning is earth human home center.
