@@ -54,7 +54,7 @@ Kuala Lumpur has define name.
 
 The name is "Landera".
 
-Landera word has meaning.
+Landera word has 1 meaning.
 
 The meaning is land human city.
 
